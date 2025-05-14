@@ -23,7 +23,7 @@ Specifically:
 - This file must be placed in a folder named `95b_buildings`, so the full path is:
 
 ```
-95b_buildings/95b_buildings.csv
+95b_buildings.csv/95b_buildings.csv
 ```
 
 > 📌 Make sure to download and extract the `.csv` version of the dataset.
